@@ -1,1 +1,1 @@
-Introduction to git using shell.
+ALX pre-course repo.
